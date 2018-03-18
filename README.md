@@ -6,9 +6,11 @@
 
 建立团队的Github organization， 在该组织下建立团队项目，邀请成员加入。
 
-成员组成名单： 2017520296（李轩屹） BAYMMAX（武国胜）fengyaowu（冯耀武）GaNSuYx（闫雄）HU-TING（胡廷）hya521531（郝雅青）JamesTomcat（吴晓崇）lianxiaowei（连晓伟）hbelove(贾海波)
+
+成员组成名单： [李轩屹](https://github.com/2017520296) [吴国盛](https://github.com/BAYMMAX) [冯耀武](https://github.com/fengyaowu) [闫雄](https://github.com/GaNSuYx) [胡廷](https://github.com/HU-TING) [郝雅青](https://github.com/hya521531) [吴晓崇](https://github.com/JamesTomcat) [连晓伟](https://github.com/lianxiaowei) [贾海波](https://github.com/hbelove)
 
 成员角色：项目经理（吴晓崇）开发者（李轩屹、武国胜、闫雄、贾海波）运维工程师（冯耀武）测试（胡廷、连晓伟）文档编辑（郝雅青）
+
 
 成员分工：
  项目经理： 负责组建团队，对成员提交的代码做Code Review，维持编码规范的有效性；

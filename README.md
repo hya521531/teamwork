@@ -6,7 +6,7 @@
 
 建立团队的Github organization， 在该组织下建立团队项目，邀请成员加入。
 
-成员组成名单： [李轩屹](github.com/2017520296) [吴国盛](github.com/BAYMMAX) [冯耀武](github.com/fengyaowu) [闫雄](github.com/GaNSuYx) [胡廷](github.com/HU-TING) [郝雅青](github.com/hya521531) [吴晓崇](github.com/JamesTomcat) [连晓伟](github.com/lianxiaowei) [贾海波](github.com/hbelove)
+成员组成名单： [李轩屹](github.com/2017520296) [吴国盛](github.com/BAYMMAX) [冯耀武](github.com/fengyaowu) [闫雄](github.com/GaNSuYx) [胡廷](github.com/HU-TING) [郝雅青](github.com/hya521531) [吴晓崇](github.com/JamesTomcat) [连晓伟](github.com/lianxiaowei) [贾海波](https://github.com/hbelove)
 
 成员角色：项目经理（吴晓崇）开发者（李轩屹、武国盛、闫雄）运维工程师（冯耀武、贾海波）测试（胡廷、连晓伟）文档编辑（郝雅青）
 
